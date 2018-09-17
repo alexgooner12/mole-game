@@ -1,2 +1,3 @@
 # mole-game
-small js project
+Whack a mole game - build with HTML, Canvas, Vanilla Javascript.
+Course project from course 30days of JavaScript by Wes Bos
